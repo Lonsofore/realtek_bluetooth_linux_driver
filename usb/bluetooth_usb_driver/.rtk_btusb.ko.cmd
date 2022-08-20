@@ -1,1 +1,0 @@
-cmd_/home/lons/20200812_LINUX_BT_DRIVER/usb/bluetooth_usb_driver/rtk_btusb.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/lons/20200812_LINUX_BT_DRIVER/usb/bluetooth_usb_driver/rtk_btusb.ko /home/lons/20200812_LINUX_BT_DRIVER/usb/bluetooth_usb_driver/rtk_btusb.o /home/lons/20200812_LINUX_BT_DRIVER/usb/bluetooth_usb_driver/rtk_btusb.mod.o;  true
